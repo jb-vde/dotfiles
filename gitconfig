@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jb.vandeneynde@gmail.com
+	name = Jean-Baptiste Van den Eynde
